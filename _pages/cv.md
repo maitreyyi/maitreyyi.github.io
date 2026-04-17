@@ -11,54 +11,82 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, University of California, Irvine (UCI), 2026 (expected)
+* B.S. in Computer Science, University of California, Irvine (UCI), 2025
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025–Present: Graduate Research Assistant  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * University of California, Irvine (Institute for Future Health)  
+    * Conducting AI safety and alignment research (Tinwhistle), focusing on false rejection and mental health-sensitive prompt evaluation  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+  * University of California, Irvine (Donald Bren School of Information and Computer Sciences, Hayes Lab)  
+    * Working on anatomically consistent human part segmentation and synthetic-to-real human pose estimation (UnrealPose)  
+    * Focus on dataset construction, benchmarking, and evaluation under occlusion and class imbalance  
+
+* 2024–2025: Undergraduate Research Assistant  
+  * University of California, Irvine (Molloi Lab)  
+  * Worked on medical imaging and data analysis projects related to cardiovascular systems  
+  * Gained experience with image processing, quantitative analysis, and research workflows  
+
+Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* H36M-Seg: Anatomically Consistent Human Part Segmentation  
+  * Developed a large-scale dataset derived from Human3.6M with anatomically consistent pixel-level labels  
+  * Built automated pipeline using 3D keypoints to generate 2D segmentation masks  
+
+* UnrealPose  
+  * Built a synthetic data generation pipeline in Unreal Engine 5 producing COCO-style annotations (keypoints, bounding boxes, occlusion labels, camera parameters)  
+  * Designed cross-dataset evaluation pipelines to analyze synthetic-to-real generalization across vision benchmarks  
+
+* Distributed Slow-Motion Video Pipeline  
+  * Designed a distributed video frame interpolation pipeline using RIFE for scalable slow-motion generation  
+  * Built an AWS-based system using EC2, Batch, Step Functions, and S3 with scene-based workload partitioning  
+
+* Search Engine (Information Retrieval System)  
+  * Built an information retrieval system using TF-IDF scoring, inverted indexes, phrase queries, and partial index merging  
+
+Experience
+======
+* Outreach Coordinator, UCI HyperXite  
+  * Organized events and coordinated outreach initiatives for student engagement  
+
+* Member, IEEE Open Project Space (OPS)  
+  * Participated in collaborative engineering and development projects  
+
+* General Member, Women in Computer Science (WICS), UCI  
+
+* NASA L’SPACE Program Participant  
+  * Completed NASA’s L’SPACE Academy, gaining experience in space mission design and proposal development  
+
+Technical Skills
+======
+* Languages: Python, C/C++, JavaScript, TypeScript, Java, SQL, Bash  
+* ML/AI: PyTorch, TensorFlow, Transformers, HRNet, DEKR, MMPose, nnU-Net, BayeSeg  
+* Systems: CUDA, SLURM, Docker, Linux, AWS (EC2, S3, Batch, Step Functions), Unreal Engine 5  
+* Areas: Computer Vision, Machine Learning, Deep Learning, AI Safety  
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Outreach Coordinator, UCI HyperXite  
+* Member, IEEE OPS  
+* Participant, NASA L’SPACE Program  
