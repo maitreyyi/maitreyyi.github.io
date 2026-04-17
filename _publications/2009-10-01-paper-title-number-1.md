@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/UnrealPose
 excerpt: 'UnrealPose-1M dataset, as well as the UnrealPose-Gen pipeline to support 3rd-party generation of human pose data'
-date: 2009-10-01
+date: 2026-01-02
 venue: 'arXiv'
 slidesurl: ''
 paperurl: 'https://arxiv.org/pdf/2601.00991'
