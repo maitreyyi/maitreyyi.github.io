@@ -18,17 +18,14 @@ I am always open to research collaborations. Feel free to reach out!
 
 News and Updates
 ======
-- Apr 2026: Ongoing work on anatomically consistent human part segmentation and large-scale benchmarking across modern architectures
 - Mar 2026: Attended Esri Developer Summit 2026 as a Student Assistant, exploring GeoAI and large-scale vision systems
-- Jan 2026: Joined Rahmani Lab; continued Graduate Research Assistant roles at UCI in Computer Vision (Hayes Lab) and AI Safety & Alignment (Institute for Future Health)
-- Jan 2026: Co-authored a submission on synthetic human pose data generation (UnrealPose), under review
-- Fall 2025: Began Graduate Research Assistant roles at UCI (Hayes Lab and Institute for Future Health); transitioned to human pose estimation and synthetic data research
+- Jan 2026: Joined Institute for Future Health (Dr. Amir Rahmani); co-authored a submission on synthetic human pose data generation (UnrealPose), under review
+- Fall 2025: Began Graduate Research Assistant roles at UCI in Computer Vision (Hayes Lab)
 - Jun 2025: Completed B.S. in Computer Science at UCI
 - 2024–2025: Promoted to Full Stack Lead, Hayes Lab; led development of web infrastructure and research tooling
-- 2024–2025: Participated in NASA L’SPACE Program, gaining experience in space mission design and proposal development
-- 2022–2023: Active member of UCI HyperXite and IEEE Open Project Space (OPS)
+- 2024–2025: Participated in NASA L’SPACE Program, focusing on space mission design and proposal development
 - 2023: Joined Hayes Lab as a Web Developer
-
+- 2022–2023: Active member of UCI HyperXite and IEEE Open Project Space (OPS)
 
 Coursework
 ======
