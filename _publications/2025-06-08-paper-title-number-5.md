@@ -6,8 +6,7 @@ permalink: /publication/h36m-seg
 excerpt: 'An anatomically consistent human part segmentation dataset and benchmarking study under occlusion and class imbalance.'
 date: 2026-04-17
 venue: 'Preprint (in preparation); planned submission to CVPR 2026 Workshop'
-paperurl: ''
-citation: 'M. Sinha, S. Manzur, J. Kawaguchi, E. Wang, W. Hayes. (2026). "H36M-Seg: Anatomically Consistent Human Part Segmentation." Preprint in preparation.'
+citation: 'S. Manzur, M. Sinha, J. Kawaguchi, E. Wang, W. Hayes. (2026). "H36M-Seg: Anatomically Consistent Human Part Segmentation." Preprint in preparation.'
 ---
 
 **Status:** Preprint in preparation. Planned submission to CVPR 2026 Workshop.

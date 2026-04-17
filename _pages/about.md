@@ -28,3 +28,10 @@ News and Updates
 - 2024–2025: Participated in NASA L’SPACE Program, gaining experience in space mission design and proposal development
 - 2022–2023: Active member of UCI HyperXite and IEEE Open Project Space (OPS)
 - 2023: Joined Hayes Lab as a Web Developer
+
+
+Coursework
+======
+* Computer Vision: Light & Geometry in Computer Vision (CS 217), Computational Photography (CS 116)
+* Systems: Parallel Computing (CS 242), Distributed Computer Systems (CS 230), Systems and Machine Learning (CS 256)
+* Foundations: Scientific Computing (CS 206), Reinforcement Learning (CS 277) Machine Learning and Data Mining (CS 178)
