@@ -7,9 +7,11 @@ excerpt: 'UnrealPose-1M dataset, as well as the UnrealPose-Gen pipeline to suppo
 date: 2026-01-02
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2601.00991'
+image: /images/unrealpose_fig1.png
 citation: 'Kawaguchi, J., Manzur, S., Wang, E. G., Sinha, M., Vela, B., Wang, Y., ... & Hayes, W. B. (2026). UnrealPose: Leveraging Game Engine Kinematics for Large-Scale Synthetic Human Pose Data. arXiv preprint arXiv:2601.00991.'
 
-
+---
+**Abstract**:
 Diverse, accurately labeled 3D human pose data is expensive and studio-bound, while in-the-wild sets lack known
 ground truth. We introduce UnrealPose-Gen, an Unreal
 Engine 5 pipeline built on Movie Render Queue for highquality offline rendering. Our generated frames include: 
