@@ -8,7 +8,6 @@ date: 2026-04-17
 venue: 'Preprint (in preparation); planned submission to CVPR 2026 Workshop'
 citation: 'M. Sinha, S. Manzur, J. Kawaguchi, E. Wang, W. Hayes. (2026). "'
 
-![UnrealPose Pipeline](/images/H36M_Seg_poster.png)
 
 **Status:** Preprint in preparation. Planned submission to CVPR 2026 Workshop.
 
