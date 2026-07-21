@@ -9,8 +9,8 @@ venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2601.00991'
 image: /images/unrealpose_fig1.png
 citation: 'Kawaguchi, J., Manzur, S., Wang, E. G., Sinha, M., Vela, B., Wang, Y., ... & Hayes, W. B. (2026). UnrealPose: Leveraging Game Engine Kinematics for Large-Scale Synthetic Human Pose Data. arXiv preprint arXiv:2601.00991.'
-
 ---
+**Status:** This arXiv preprint presents the first version of UnrealPose. We are currently developing an expanded version of the dataset for submission to WACV, featuring approximately 60 diverse MetaHuman characters, substantially increased subject diversity, and additional experiments to further evaluate synthetic-to-real generalization and the utility of UnrealPose for human pose estimation.
 **Abstract**:
 Diverse, accurately labeled 3D human pose data is expensive and studio-bound, while in-the-wild sets lack known
 ground truth. We introduce UnrealPose-Gen, an Unreal

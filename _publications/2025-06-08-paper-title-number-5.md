@@ -5,14 +5,13 @@ category: manuscripts
 permalink: /publication/h36m-seg
 excerpt: 'An anatomically consistent human part segmentation dataset and benchmarking study under occlusion and class imbalance.'
 date: 2026-04-17
-venue: 'Preprint (in preparation); planned submission to CVPR 2026 Workshop'
+venue: 'Preprint (in preparation); planned submission to WACV 2027'
 image: /images/H36M_Seg_poster.png
-citation: 'M. Sinha, S. Manzur, J. Kawaguchi, E. Wang, W. Hayes. (2026). "'
-
+citation: 'Sinha, M., Manzur, S., Kawaguchi, J., Wang, E., & Hayes, W. (2026). H36M-Seg: Human Part Segmentation of Human3.6M. Preprint in preparation.'
 ---
-**Status:** Preprint in preparation. Planned submission to CVPR 2026 Workshop.
+**Status:** Preprint in preparation. Planned submission to WACV 2027
 
 **Abstract:**
-Human part segmentation aims to decompose the human body into semantically meaningful regions at the pixel level. Existing datasets often rely on appearance-based labeling, leading to inconsistencies under occlusion and clothing. We address this gap in two ways. First, we introduce an automated pipeline that generates pixel-level annotations. For each input image, our method assumes a known camera viewpoint and ground-truth 3D keypoints; we use these to generate a 3D solid-body “abstract image” representation of individually-colored limbs, with occlusion, as viewed from the given camera viewpoint. Finally, applying the binary mask (that outlines the human in the image) to the abstract image gives us a final, pixel-by-pixel segmentation of the imaged human into color-coded limbs. Second, we apply this pipeline to every image in Human3.6M, giving a dataset which we call **H36M-Seg**. It provides pixel-level segmentation divided into nine anatomically defined body parts: bilateral thighs, calves, upper arms, forearms, and torso. We benchmark modern segmentation architectures and analyze performance under severe foreground–foreground imbalance and occlusion. Our results highlight challenges in anatomically consistent segmentation and motivate data-centric approaches for fine-grained human understanding.
+Human part segmentation aims to decompose the human body into semantically meaningful regions at the pixel level. Existing datasets often rely on appearance-based labeling, leading to inconsistencies under occlusion and clothing. We address this gap in two ways. First, we introduce an automated pipeline that generates pixel-level annotations. For each input image, our method assumes a known camera viewpoint and ground-truth 3D keypoints; we use these to generate a 3D solid-body “abstract image” representation of individually-colored limbs, with occlusion, as viewed from the given camera viewpoint. Finally, applying the binary mask (that outlines the human in the image) to the abstract image gives us a final, pixel-by-pixel segmentation of the imaged human into color-coded limbs. Second, we apply this pipeline to every image in Human3.6M, giving a dataset which we call **H36M-Seg**. It provides pixel-level segmentation divided into nine anatomically defined body parts: bilateral thighs, calves, upper arms, forearms, and torso. We benchmark modern semantic segmentation architectures and analyze performance under severe foreground–foreground class imbalance and occlusion. Our results establish strong baselines for anatomically consistent human part segmentation, highlight the remaining challenges posed by small anatomical structures and occlusion, and provide a foundation for future research on fine-grained human understanding.
 
 **Resources:** Links to paper/code will be added upon arXiv release.
